@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.gamezone" name="[COLOR red][B]gamezone[/B][/COLOR] [COLOR black][B][/B][/COLOR] Repository" version="1.3" provider-name="gamezone">
+<addon id="repository.gamezone" name="[COLOR red][B]gamezone[/B][/COLOR] [COLOR black][B][/B][/COLOR] Repository" version="1.3" provider-name="gamezone19761">
 	<requires>
         <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="xbmc.addon" version="12.0.0"/>
@@ -21,18 +21,18 @@
 	    <import addon="script.module.youtube.dl" optional="true"/>	
 	</requires>
 	<extension point="xbmc.addon.repository" name="[B][COLOR red]gamezone [COLOR red]repositorio[/B][/COLOR]">
-		    <info compressed="false">https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml</info>
-		    <checksum>https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml.md5</checksum>
-		    <datadir zip="true">https://raw.githubusercontent.com/gamezone/repository.gamezone/master</datadir>
+		    <info compressed="false">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master</datadir>
 		<dir minversion="17.0.0">
-			<info compressed="true">https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml.md5</checksum>
+			<info compressed="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/gamezone/repository.gamezone/master/</datadir>
 		</dir>
 		<dir minversion="17.9.0">
-			<info compressed="true">https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/gamezone/repository.gamezone/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/gamezone/repository.gamezone/master/</datadir>
+			<info compressed="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
