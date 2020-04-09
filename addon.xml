@@ -24,16 +24,7 @@
 		    <info compressed="false">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master</datadir>
-		<dir minversion="17.0.0">
-			<info compressed="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/gamezon19761/repository.gamezone/master</datadir>
-		</dir>
-		<dir minversion="17.9.0">
-			<info compressed="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/gamezone19761/repository.gamezone/master</datadir>
-		</dir>
+		
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>repositorio gamezone</summary>
